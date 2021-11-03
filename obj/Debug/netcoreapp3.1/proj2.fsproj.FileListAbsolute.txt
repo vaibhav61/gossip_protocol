@@ -1,0 +1,4 @@
+c:\Priya\sem3\DOS\Projects\Project2\proj2\bin\Debug\netcoreapp3.1\proj2.exe
+c:\Priya\sem3\DOS\Projects\Project2\proj2\obj\Debug\netcoreapp3.1\proj2.AssemblyInfoInputs.cache
+c:\Priya\sem3\DOS\Projects\Project2\proj2\obj\Debug\netcoreapp3.1\proj2.AssemblyInfo.fs
+c:\Priya\sem3\DOS\Projects\Project2\proj2\obj\Debug\netcoreapp3.1\proj2.fsproj.CoreCompileInputs.cache
